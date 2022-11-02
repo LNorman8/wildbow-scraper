@@ -1,6 +1,6 @@
 # _Worm_ Scraper
 
-Scrapes the web serial [_Worm_](https://parahumans.wordpress.com/) and its sequel [_Ward_](https://www.parahumans.net/) into an eBook format.
+Scrapes Wildbow's main serials (Worm,Ward,Pact,Pale,Twig) into epub. 
 
 ## How to use
 
