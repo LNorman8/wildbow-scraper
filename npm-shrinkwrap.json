@@ -1,11 +1,11 @@
 {
-  "name": "worm-scraper",
+  "name": "wildbow-scraper",
   "version": "5.3.0",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
-      "name": "worm-scraper",
+      "name": "wildbow-scraper",
       "version": "5.3.0",
       "license": "WTFPL",
       "dependencies": {
@@ -18,7 +18,7 @@
         "yargs": "^17.5.1"
       },
       "bin": {
-        "worm-scraper": "lib/worm-scraper.js"
+        "wildbow-scraper": "lib/worm-scraper.js"
       },
       "devDependencies": {
         "@domenic/eslint-config": "^2.0.0",
