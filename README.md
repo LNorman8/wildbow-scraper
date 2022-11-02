@@ -9,19 +9,19 @@ First you'll need a modern version of [Node.js](https://nodejs.org/en/). At leas
 Then, open a terminal ([Mac documentation](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line), [Windows documentation](http://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/)) and install the program by typing
 
 ```bash
-npm install -g worm-scraper
+npm install -g git+https://github.com/LNorman8/wildbow-scraper.git
 ```
 
 This will take a while as it downloads this program and its dependencies from the internet. Once it's done, try to run it, by typing:
 
 ```bash
-worm-scraper --help
+wildbow-scraper --help
 ```
 
 If this outputs some help documentation, then the installation process went smoothly. You can move on to assemble the eBook by typing
 
 ```bash
-worm-scraper
+wildbow-scraper
 ```
 
 This will take a while, but will eventually produce a `Worm.epub` file!
@@ -29,7 +29,7 @@ This will take a while, but will eventually produce a `Worm.epub` file!
 If you'd like to get _Ward_ instead of _Worm_, use `--book=ward`, e.g.
 
 ```bash
-worm-scraper --book=ward
+wildbow-scraper --book=ward
 ```
 
 ## EPUB vs. other formats
