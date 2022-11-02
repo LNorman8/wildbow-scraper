@@ -1,5 +1,5 @@
 {
-  "name": "worm-scraper",
+  "name": "wildbow-scraper",
   "description": "Scrapes the web serial Worm and its sequel Ward into an eBook format",
   "keywords": [
     "ebook",
