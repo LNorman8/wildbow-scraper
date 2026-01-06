@@ -1,6 +1,6 @@
 # _Worm_ Scraper
 
-Scrapes the web serial [_Worm_](https://parahumans.wordpress.com/), its sequel [_Ward_](https://www.parahumans.net/), and the bridge series [_Glow-worm_](https://www.parahumans.net/2017/10/21/glow-worm-0-1/) into an ebook format.
+Scrapes the web serial [_Worm_](https://parahumans.wordpress.com/), its sequel [_Ward_](https://www.parahumans.net/), the bridge series [_Glow-worm_](https://www.parahumans.net/2017/10/21/glow-worm-0-1/), and the web serial [_Twig_](https://twigserial.wordpress.com/) into an ebook format.
 
 ## How to use
 
