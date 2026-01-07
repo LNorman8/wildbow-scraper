@@ -81,7 +81,7 @@ It is only this generation, they say, that the youth and children are able to ta
         { url: "https://twigserial.wordpress.com/category/story/arc-4-stitch-in-time/4-10/", simplifiedTitle: "10"},
         { url: "https://twigserial.wordpress.com/category/story/arc-4-stitch-in-time/4-11/", simplifiedTitle: "11"},
         { url: "https://twigserial.wordpress.com/category/story/arc-4-stitch-in-time/4-12/", simplifiedTitle: "12"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-4-stitch-in-time/4-x-enemy/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: Cynthia"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-4-stitch-in-time/4-x-enemy/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: Avis"},
       ],
     },
     {
@@ -146,8 +146,8 @@ It is only this generation, they say, that the youth and children are able to ta
         { url: "https://twigserial.wordpress.com/category/story/arc-7-tooth-and-nail/7-14/", simplifiedTitle: "14"},
         { url: "https://twigserial.wordpress.com/category/story/arc-7-tooth-and-nail/7-15/", simplifiedTitle: "15"},
         { url: "https://twigserial.wordpress.com/category/story/arc-7-tooth-and-nail/7-16/", simplifiedTitle: "16"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-7-tooth-and-nail/7-x-enemy/",  simplifiedTitle: "Interlude I", characterNamesTitle: "Interlude: Boys"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-7-tooth-and-nail/7-y-enemy-ii/",  simplifiedTitle: "Interlude II", characterNamesTitle: "Interlude: Girls"}
+        { url: "https://twigserial.wordpress.com/category/story/arc-7-tooth-and-nail/7-x-enemy/",     simplifiedTitle: "Interlude I",  characterNamesTitle: "Interlude: Lambs - Boys"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-7-tooth-and-nail/7-y-enemy-ii/",  simplifiedTitle: "Interlude II", characterNamesTitle: "Interlude: Lambs - Girls"}
       ],
     },
       {
@@ -195,7 +195,7 @@ It is only this generation, they say, that the youth and children are able to ta
         { url: "https://twigserial.wordpress.com/category/story/arc-9-counting-sheep/9-16/", simplifiedTitle: "16"},
         { url: "https://twigserial.wordpress.com/category/story/arc-9-counting-sheep/9-17/", simplifiedTitle: "17"},
         { url: "https://twigserial.wordpress.com/category/story/arc-9-counting-sheep/9-18/", simplifiedTitle: "18"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-9-counting-sheep/9-x-enemy/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: ?"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-9-counting-sheep/9-x-enemy/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: Creatures"},
       ],
     },
         {
@@ -222,7 +222,7 @@ It is only this generation, they say, that the youth and children are able to ta
         { url: "https://twigserial.wordpress.com/category/story/arc-10-in-sheeps-clothing/10-18/", simplifiedTitle: "18"},
         { url: "https://twigserial.wordpress.com/category/story/arc-10-in-sheeps-clothing/10-19/", simplifiedTitle: "19"},
         { url: "https://twigserial.wordpress.com/category/story/arc-10-in-sheeps-clothing/10-20/", simplifiedTitle: "20"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-10-in-sheeps-clothing/10-x-lamb/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: ?"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-10-in-sheeps-clothing/10-x-lamb/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: Helen"},
       ],
     },
             {
@@ -244,7 +244,7 @@ It is only this generation, they say, that the youth and children are able to ta
         { url: "https://twigserial.wordpress.com/2016/06/28/cut-to-the-quick-11-13/", simplifiedTitle: "13"}, // Category 11.13 has both 13 and 14. Directly linking to both, and hoping that it won't cause headaches updating the parser to unpack the two different types of chapter
         { url: "https://twigserial.wordpress.com/2016/06/30/cut-to-the-quick-11-14/", simplifiedTitle: "14"},
         { url: "https://twigserial.wordpress.com/category/story/arc-11-cut-to-the-quick/11-15/", simplifiedTitle: "15"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-11-cut-to-the-quick/11-x-lamb/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: ?"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-11-cut-to-the-quick/11-x-lamb/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: Duncan"},
       ],
     },
       {
@@ -304,7 +304,7 @@ It is only this generation, they say, that the youth and children are able to ta
         { url: "https://twigserial.wordpress.com/category/story/arc-14-thicker-than-water/14-16/", simplifiedTitle: "16"},
         { url: "https://twigserial.wordpress.com/category/story/arc-14-thicker-than-water/14-17/", simplifiedTitle: "17"},
         { url: "https://twigserial.wordpress.com/category/story/arc-14-thicker-than-water/14-18/", simplifiedTitle: "18"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-14-thicker-than-water/lamb-arc-14/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: ?"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-14-thicker-than-water/lamb-arc-14/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: Lillian"},
       ],
     },
             {
@@ -327,7 +327,7 @@ It is only this generation, they say, that the youth and children are able to ta
         { url: "https://twigserial.wordpress.com/category/story/arc-15-bitter-pill/15-14/", simplifiedTitle: "14"},
         { url: "https://twigserial.wordpress.com/category/story/arc-15-bitter-pill/15-15/", simplifiedTitle: "15"},
         { url: "https://twigserial.wordpress.com/category/story/arc-15-bitter-pill/15-16/", simplifiedTitle: "16"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-15-bitter-pill/lamb-arc-15/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: ?"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-15-bitter-pill/lamb-arc-15/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: Jessie"},
       ],
     },
         {
@@ -347,7 +347,7 @@ It is only this generation, they say, that the youth and children are able to ta
         { url: "https://twigserial.wordpress.com/category/story/arc-16-head-over-heels/16-11/", simplifiedTitle: "11"},
         { url: "https://twigserial.wordpress.com/category/story/arc-16-head-over-heels/16-12/", simplifiedTitle: "12"},
         { url: "https://twigserial.wordpress.com/category/story/arc-16-head-over-heels/16-13/", simplifiedTitle: "13"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-16-head-over-heels/16-x-lamb/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: ?"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-16-head-over-heels/16-x-lamb/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: Ashton"},
       ],
     },
       {
@@ -372,7 +372,7 @@ It is only this generation, they say, that the youth and children are able to ta
         { url: "https://twigserial.wordpress.com/category/story/arc-17-gut-feeling/17-16/", simplifiedTitle: "16"},
         { url: "https://twigserial.wordpress.com/category/story/arc-17-gut-feeling/17-17/", simplifiedTitle: "17"},
         { url: "https://twigserial.wordpress.com/category/story/arc-17-gut-feeling/17-18/", simplifiedTitle: "18"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-17-gut-feeling/17-x-lambs/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: Lambs"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-17-gut-feeling/17-x-lambs/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: Lillian"},
       ],
     },
     {
@@ -386,17 +386,17 @@ It is only this generation, they say, that the youth and children are able to ta
         { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-05/", simplifiedTitle: "5"},
         { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-06/", simplifiedTitle: "6"},
         { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-07/", simplifiedTitle: "7"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-a-enemy/",  simplifiedTitle: "Interlude A", characterNamesTitle: "Interlude A: Enemy"}, // TODO
+        { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-a-enemy/",  simplifiedTitle: "Interlude A", characterNamesTitle: "Interlude A: Infante"}, // TODO
         { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-08/", simplifiedTitle: "8"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-b-lamb/",   simplifiedTitle: "Interlude B", characterNamesTitle: "Interlude B: Lamb"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-b-lamb/",   simplifiedTitle: "Interlude B", characterNamesTitle: "Interlude B: Mary"},
         { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-09/", simplifiedTitle: "9"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-c-enemy/", simplifiedTitle: "Interlude C", characterNamesTitle: "Interlude C: Enemy"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-d-lamb/",  simplifiedTitle: "Interlude D", characterNamesTitle: "Interlude D: Lamb"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-c-enemy/", simplifiedTitle: "Interlude C", characterNamesTitle: "Interlude C: Mauer"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-d-lamb/",  simplifiedTitle: "Interlude D", characterNamesTitle: "Interlude D: Lillian"},
         { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-10/", simplifiedTitle: "10"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-e-lamb/",  simplifiedTitle: "Interlude E", characterNamesTitle: "Interlude E: Lamb"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-f-enemy/", simplifiedTitle: "Interlude F", characterNamesTitle: "Interlude F: Enemy"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-g-enemy/", simplifiedTitle: "Interlude G", characterNamesTitle: "Interlude G: Enemy"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-h-enemy/", simplifiedTitle: "Interlude H", characterNamesTitle: "Interlude H: Enemy"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-e-lamb/",  simplifiedTitle: "Interlude E", characterNamesTitle: "Interlude E: Jessie"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-f-enemy/", simplifiedTitle: "Interlude F", characterNamesTitle: "Interlude F: Fray"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-g-enemy/", simplifiedTitle: "Interlude G", characterNamesTitle: "Interlude G: Davis"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-18-dog-eat-dog-story/18-h-enemy/", simplifiedTitle: "Interlude H", characterNamesTitle: "Interlude H: Sylvester"},
   ]
   },
             {
@@ -418,7 +418,7 @@ It is only this generation, they say, that the youth and children are able to ta
         { url: "https://twigserial.wordpress.com/category/story/arc-19-root-and-branch/19-13/", simplifiedTitle: "13"},
         { url: "https://twigserial.wordpress.com/category/story/arc-19-root-and-branch/19-14/", simplifiedTitle: "14"},
         { url: "https://twigserial.wordpress.com/category/story/arc-19-root-and-branch/19-15/", simplifiedTitle: "15"},
-        { url: "https://twigserial.wordpress.com/category/story/arc-19-root-and-branch/19-x-enemy/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: ?"},
+        { url: "https://twigserial.wordpress.com/category/story/arc-19-root-and-branch/19-x-enemy/",  simplifiedTitle: "Interlude", characterNamesTitle: "Interlude: Hector"},
       ],
     },
           {
